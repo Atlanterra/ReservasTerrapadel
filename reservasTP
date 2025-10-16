@@ -32,6 +32,17 @@
       "dailyLimit": 1,
       "weeklyLimit": 7,
       "credits": 0
+    },
+    {
+      "id": 4,
+      "name": "Pepe Gil Moreno",
+      "email": "pepito@gmail.com",
+      "password": "000",
+      "apartment": "2111",
+      "role": "user",
+      "dailyLimit": 1,
+      "weeklyLimit": 7,
+      "credits": 0
     }
   ],
   "reservations": [],
