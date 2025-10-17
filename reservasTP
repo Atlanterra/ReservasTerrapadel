@@ -48,5 +48,7 @@
   "reservations": [],
   "blockedTimes": [],
   "creditMovements": [],
-  "settings": {}
+  "settings": {
+    "creditsPerCourt": {}
+  }
 }
