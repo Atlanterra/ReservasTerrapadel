@@ -45,7 +45,20 @@
       "credits": 24
     }
   ],
-  "reservations": [],
+  "reservations": [
+    {
+      "id": 1,
+      "userId": 4,
+      "courtId": 1,
+      "date": "2025-10-18",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "displayApartmentId": "2111",
+      "createdAt": "2025-10-17T16:55:51.232Z",
+      "status": "Abierta",
+      "creditsCost": 4
+    }
+  ],
   "blockedTimes": [],
   "creditMovements": [
     {
