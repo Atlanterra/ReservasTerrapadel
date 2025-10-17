@@ -42,12 +42,21 @@
       "role": "user",
       "dailyLimit": 1,
       "weeklyLimit": 7,
-      "credits": 20
+      "credits": 15
     }
   ],
   "reservations": [],
   "blockedTimes": [],
-  "creditMovements": [],
+  "creditMovements": [
+    {
+      "id": 1,
+      "userId": 4,
+      "userName": "Pepe Gil Moreno",
+      "apartmentId": "2111",
+      "credits": 15,
+      "date": "2025-10-17T12:15:38.955Z"
+    }
+  ],
   "settings": {
     "creditsPerCourt": {}
   }
