@@ -42,7 +42,7 @@
       "role": "user",
       "dailyLimit": 1,
       "weeklyLimit": 7,
-      "credits": 12
+      "credits": 10
     }
   ],
   "reservations": [],
@@ -63,6 +63,14 @@
       "apartmentId": "2111",
       "credits": 12,
       "date": "2025-10-17T12:20:32.053Z"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "userName": "Pepe Gil Moreno",
+      "apartmentId": "2111",
+      "credits": 10,
+      "date": "2025-10-17T12:21:51.889Z"
     }
   ],
   "settings": {
