@@ -42,7 +42,7 @@
       "role": "user",
       "dailyLimit": 1,
       "weeklyLimit": 7,
-      "credits": 8
+      "credits": 4
     }
   ],
   "reservations": [
