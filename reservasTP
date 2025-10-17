@@ -31,7 +31,7 @@
       "role": "user",
       "dailyLimit": 1,
       "weeklyLimit": 7,
-      "credits": 4
+      "credits": 12
     },
     {
       "id": 4,
