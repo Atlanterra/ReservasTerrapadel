@@ -129,6 +129,18 @@
       "createdAt": "2025-10-18T02:26:49.464Z",
       "status": "Eliminada",
       "creditsCost": 4
+    },
+    {
+      "id": 8,
+      "userId": 4,
+      "courtId": 1,
+      "date": "2025-10-19",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "displayApartmentId": "2111",
+      "createdAt": "2025-10-18T11:32:24.061Z",
+      "status": "Abierta",
+      "creditsCost": 4
     }
   ],
   "blockedTimes": [],
