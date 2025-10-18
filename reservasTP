@@ -147,6 +147,69 @@
     }
   ],
   "settings": {
-    "creditsPerCourt": {}
+    "clubName": "TERRAPÁDEL",
+    "openingTime": "09:00",
+    "closingTime": "22:30",
+    "slotInterval": 90,
+    "courtCount": 4,
+    "maxBookingHours": 72,
+    "defaultDailyLimit": 1,
+    "defaultWeeklyLimit": 7,
+    "maxOpenReservations": 2,
+    "minCancellationMinutes": 120,
+    "operarioOverrideBookingHours": false,
+    "operarioOverrideDailyLimit": true,
+    "operarioOverrideWeeklyLimit": true,
+    "operarioOverrideOpenLimit": true,
+    "operarioOverrideCancellation": true,
+    "operarioOverrideStartedSlots": false,
+    "operarioOverrideCredits": false,
+    "adminOverrideBookingHours": false,
+    "adminOverrideDailyLimit": true,
+    "adminOverrideWeeklyLimit": true,
+    "adminOverrideOpenReservations": true,
+    "adminOverrideCancellation": true,
+    "adminAllowPastDates": false,
+    "allowBookingStartedSlots": true,
+    "adminOverrideStartedSlots": false,
+    "adminDeletePastReservations": false,
+    "creditsPerCourt": {
+      "1": {
+        "L": 4,
+        "M": 4,
+        "X": 4,
+        "J": 4,
+        "V": 4,
+        "S": 4,
+        "D": 4
+      },
+      "2": {
+        "L": 4,
+        "M": 4,
+        "X": 4,
+        "J": 4,
+        "V": 4,
+        "S": 4,
+        "D": 4
+      },
+      "3": {
+        "L": 4,
+        "M": 4,
+        "X": 4,
+        "J": 4,
+        "V": 4,
+        "S": 4,
+        "D": 4
+      },
+      "4": {
+        "L": 4,
+        "M": 4,
+        "X": 4,
+        "J": 4,
+        "V": 4,
+        "S": 4,
+        "D": 4
+      }
+    }
   }
 }
